@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/images/play-button_318-42541.png</file>
+        <file>res/images/Cube.gif</file>
+    </qresource>
+</RCC>
